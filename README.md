@@ -14,3 +14,8 @@ to work on it. Plus, this project will be pretty easy so I won't go into deep is
 when working on it. Simply because this project is done in order to make working with
 Flask a habit (the use of factories, the template through jinja2 and so on...), 
 in order to work on a bigger project.
+
+## Table of contents
+1. Create a Flask application
+2. Creation of a python package
+3. Create the database to persistency
