@@ -1,5 +1,4 @@
-instance/
-.venv/
+venv/
 
 *.pyc
 __pycache__/
@@ -13,3 +12,4 @@ htmlcov/
 dist/
 build/
 *.egg-info/
+instance/
